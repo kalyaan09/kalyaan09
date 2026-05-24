@@ -21,7 +21,9 @@ AWS (Lambda, S3, Athena, SQS, ECR, EC2), Docker, Tauri
 PostgreSQL, DynamoDB, ETL pipelines
 
 ## Open Source
-- Merged MR in GitLab core API (Ruby) — `gitlab-org/gitlab`
+- **gitlab** (Ruby) — exposed default award emoji in the GitLab API. MR approved, pending architectural resolution. [MR #227390](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/227390)
+- **gitlab-org/api/client-go** (Go) — implemented Direct Transfer API support with full unit test coverage. MR merged. [MR #2846](https://gitlab.com/gitlab-org/api/client-go/-/merge_requests/2846)
+</thinking>
 
 ## What I'm Building
 - **Resume Pro** — macOS desktop app with a 4-agent LLM pipeline for resume tailoring. 
