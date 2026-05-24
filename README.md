@@ -4,7 +4,7 @@
 building Java microservices and petabyte-scale Python data pipelines. 
 Currently building multi-agent LLM systems. Open source contributor to GitLab core.**
 
-🌐 [LinkedIn](https://linkedin.com/in/kkalyaan) • 📧 kalyaankanugula@gmail.com • Open to relocate
+🌐 [LinkedIn](https://linkedin.com/in/kkalyaan) • 📧 kalyaankanugula@gmail.com • Open to relocate ![](https://komarev.com/ghpvc/?username=kalyaan09&color=green)
 
 ## Tech Stack
 
