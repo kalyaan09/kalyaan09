@@ -27,7 +27,7 @@ PostgreSQL, DynamoDB, ETL pipelines
 
 ## What I'm Building
 - **Resume Pro** — macOS desktop app with a 4-agent LLM pipeline for resume tailoring. 
-  Tauri v2 + React + Python FastAPI.
+  Tauri v2 + React + Python FastAPI. [Download DMG](https://github.com/kalyaan09/resumeBuilder/releases/tag/v0.1.0)
 
 ## Open To
 - Backend Engineer roles
